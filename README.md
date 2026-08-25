@@ -1,4 +1,4 @@
-# Entrainement GitHub
+# Révision de Git et GitHub
 
 ## Compétences travaillées
 
