@@ -1,4 +1,4 @@
-# Entraînement GitHub avec VS Code
+# Révision de Git et GitHub avec VS Code
 
 ## Compétences travaillées
 
