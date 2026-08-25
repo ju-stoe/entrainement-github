@@ -1,0 +1,13 @@
+# Informations confidentielles
+.env
+
+# Fichiers macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Résultats d'entraînement IA
+runs/
