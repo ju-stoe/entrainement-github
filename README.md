@@ -1,4 +1,4 @@
-# Entrainement GitHub
+# Entraînement GitHub avec VS Code
 
 ## Compétences travaillées
 
