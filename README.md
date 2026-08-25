@@ -5,3 +5,6 @@
 - Git
 - GitHub
 - Visual Studio Code
+
+##objectif
+etre à l'aise avec Git et GitHub avant la rentrée
