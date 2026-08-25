@@ -6,5 +6,5 @@
 - GitHub
 - Visual Studio Code
 
-##objectif
+## Objectif
 etre à l'aise avec Git et GitHub avant la rentrée
